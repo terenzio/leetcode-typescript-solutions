@@ -1,0 +1,2 @@
+declare function maxArea(h: number, w: number, horizontalCuts: number[], verticalCuts: number[]): number;
+//# sourceMappingURL=1465.Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts.d.ts.map

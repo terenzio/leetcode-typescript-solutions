@@ -1,0 +1,2 @@
+declare function getTargetCopy(original: TreeNode | null, cloned: TreeNode | null, target: TreeNode | null): TreeNode | null;
+//# sourceMappingURL=1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.d.ts.map
